@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "se.verifique.app.cedula",
-    "sha256_cert_fingerprints":
-    ["AB:31:FA:F4:D4:03:02:96:34:C8:84:26:4D:55:BE:9B:17:02:E1:23:D3:31:AF:21:8B:4A:F8:FE:42:E0:73:89"]
-  }
-}]
